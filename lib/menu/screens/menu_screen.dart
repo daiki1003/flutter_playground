@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart' hide MenuItem;
 
+import 'package:flutter_playground/animation/screen/animation_screen.dart';
 import 'package:flutter_playground/menu/components/menu_item.dart';
 import 'package:flutter_playground/menu/enum/menu_type.dart';
 
@@ -19,7 +20,11 @@ class MenuScreen extends StatelessWidget {
           return MenuItem(
             type,
             onPressed: (type) {
-              //
+              switch (type) {
+                case MenuType.animation:
+                  Navigator.of(context).push<void>(AnimationScreen.route());
+                  break;
+              }
             },
           );
         },
