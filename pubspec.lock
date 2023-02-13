@@ -98,10 +98,10 @@ packages:
     dependency: transitive
     description:
       name: flutter_riverpod
-      sha256: "745292ce584e0c700ba152c75330410b29cb9e4727c8efdf74e76d4f3eb5e2f9"
+      sha256: "46a27b7a11dc13738054093076f2dc65692ddcd463979b15092accf5681aea20"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.2"
+    version: "2.2.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -111,10 +111,10 @@ packages:
     dependency: "direct main"
     description:
       name: hooks_riverpod
-      sha256: b887fc427af89723782100bd33f9a4f055b9fb559d7a4b77b959033add0e10e2
+      sha256: a596bcb1eaf48eae6da1ce8b9e60ec9538ef7d15725e941c3626f29dfcc01d96
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.2"
+    version: "2.2.0"
   import_sorter:
     dependency: "direct main"
     description:
@@ -183,10 +183,10 @@ packages:
     dependency: transitive
     description:
       name: riverpod
-      sha256: "45b636370dfb1abad56c705b6156e1ee8ed2de3fc173ae0a69ee2aa1fbcd2bac"
+      sha256: "59a48de9c757aa61aa28e9fd625ffb360d43b6b54606f12536622c55be9e8c4b"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.2"
+    version: "2.2.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -268,10 +268,10 @@ packages:
     dependency: "direct main"
     description:
       name: uuid
-      sha256: "2469694ad079893e3b434a627970c33f2fa5adc46dfe03c9617546969a9a8afc"
+      sha256: "648e103079f7c64a36dc7d39369cabb358d377078a051d6ae2ad3aa539519313"
       url: "https://pub.dev"
     source: hosted
-    version: "3.0.6"
+    version: "3.0.7"
   vector_math:
     dependency: transitive
     description:
