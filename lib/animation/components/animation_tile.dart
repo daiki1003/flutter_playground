@@ -29,7 +29,7 @@ class AnimationTile extends ConsumerWidget {
         children: [
           Text(
             title,
-            style: textTheme.headline4!.copyWith(
+            style: textTheme.headlineMedium!.copyWith(
               color: Colors.black,
               fontWeight: FontWeight.bold,
             ),

@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart' hide MenuItem;
+import 'package:flutter/material.dart';
 
 import 'package:flutter_playground/animation/screen/animation_screen.dart';
 import 'package:flutter_playground/menu/components/menu_item.dart';
