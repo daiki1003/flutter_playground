@@ -1,13 +1,12 @@
 import 'package:flutter/material.dart';
-
 import 'package:flutter_playground/menu/components/menu_type_ex.dart';
 import 'package:flutter_playground/menu/enum/menu_type.dart';
 
 class MenuItem extends StatelessWidget {
   const MenuItem(
     this.type, {
-    super.key,
     required this.onPressed,
+    super.key,
   });
 
   final ValueChanged<MenuType> onPressed;

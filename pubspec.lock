@@ -262,14 +262,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.20.0"
-  flutter_lints:
-    dependency: "direct dev"
-    description:
-      name: flutter_lints
-      sha256: "2118df84ef0c3ca93f96123a616ae8540879991b8b57af2f81b76a7ada49b2a4"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.2"
   flutter_riverpod:
     dependency: transitive
     description:
@@ -355,14 +347,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
-  import_sorter:
-    dependency: "direct main"
-    description:
-      name: import_sorter
-      sha256: eb15738ccead84e62c31e0208ea4e3104415efcd4972b86906ca64a1187d0836
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.6.0"
   intersperse:
     dependency: "direct main"
     description:
@@ -395,14 +379,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.8.1"
-  lints:
-    dependency: transitive
-    description:
-      name: lints
-      sha256: "0a217c6c989d21039f1498c3ed9f3ed71b354e69873f13a8dfc3c9fe76f1b452"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.1"
   logging:
     dependency: transitive
     description:
@@ -632,14 +608,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.1"
-  tint:
-    dependency: transitive
-    description:
-      name: tint
-      sha256: "9652d9a589f4536d5e392cf790263d120474f15da3cf1bee7f1fdb31b4de5f46"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.1"
   typed_data:
     dependency: transitive
     description:
@@ -664,6 +632,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.4"
+  very_good_analysis:
+    dependency: "direct dev"
+    description:
+      name: very_good_analysis
+      sha256: "5e4ea72d2a9188630f0dd8f120a541de730090ef8863243fedca8267a84508b8"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.0.0+1"
   vm_service:
     dependency: transitive
     description:

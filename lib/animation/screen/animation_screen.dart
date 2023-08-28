@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
-
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:intersperse/intersperse.dart';
-
 import 'package:flutter_playground/animation/components/animated_align_area.dart';
 import 'package:flutter_playground/animation/components/animation_tile.dart';
 import 'package:flutter_playground/animation/components/animation_type.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:intersperse/intersperse.dart';
 
 class AnimationScreen extends HookWidget {
   const AnimationScreen({

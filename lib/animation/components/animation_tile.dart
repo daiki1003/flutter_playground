@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 final indexProvider = Provider<int>(
@@ -8,9 +7,9 @@ final indexProvider = Provider<int>(
 
 class AnimationTile extends ConsumerWidget {
   const AnimationTile({
-    super.key,
     required this.title,
     required this.child,
+    super.key,
   });
 
   final String title;

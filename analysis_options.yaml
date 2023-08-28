@@ -1,4 +1,4 @@
-include: package:flutter_lints/flutter.yaml
+include: package:very_good_analysis/analysis_options.5.0.0.yaml
 
 analyzer: 
   plugins:
@@ -6,3 +6,4 @@ analyzer:
 
 linter:
   rules:
+    public_member_api_docs: false
